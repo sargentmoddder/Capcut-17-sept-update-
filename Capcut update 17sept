@@ -14,7 +14,7 @@
 "• I have given 60 minutes trial: you can save your pending project within that"
 ],
 "trial": {
-"enabled": true,
+"enabled": false,
 "text": "60 Min Trial",
 "minutes": 60
 },
